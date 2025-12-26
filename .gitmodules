@@ -1,6 +1,0 @@
-[submodule "clientInveno"]
-	path = clientInveno
-	url = https://github.com/rechuvivek/clientInveno.git
-[submodule "serverInveno"]
-	path = serverInveno
-	url = https://github.com/rechuvivek/serverInveno.git
